@@ -1,3 +1,23 @@
 h1 {
   color : red;
+  background: #000;
+}
+
+p {
+  color: blue;
+  background: red;
+}
+
+ ul {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+ }
+li {
+  list-style: none;
+  margin : auto 5rem;
+}
+
+a {
+  text-decoration: none;
 }

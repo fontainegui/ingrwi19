@@ -1,1 +1,1 @@
-alert ("ok, vendredi");
+alert ("attention les yeux");
